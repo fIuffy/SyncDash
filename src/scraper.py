@@ -1,5 +1,9 @@
 import requests
 
+### Scrape levels from ULF Database
+
+### Posted in .gitignore
+
 def download_level(level_id):
     url = "https://www.boomlings.com/database/downloadGJLevel22.php"
     data = ""
