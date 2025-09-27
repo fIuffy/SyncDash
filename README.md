@@ -15,7 +15,7 @@ Using advanced **audio analysis** and **machine learning**, it creates playable 
 
 ## ✨ Features  
 - 🎵 **Beat detection & audio analysis** — extracts rhythm, drops, and intensity from any EDM track  
-- 🧠 **Machine-learned level generation** — trained on a large private dataset of Geometry Dash levels + their songs  
+- 🧠 **Machine-learned level generation** — trained on a large private dataset of Geometry Dash levels made by Creators with Creator Points + their songs  
 - ⚡ **Auto-sync** — every jump, spike, and platform is placed to match the music’s flow  
 - 🕹️ **Playable output** — instantly ready to import and play in Geometry Dash  
 
