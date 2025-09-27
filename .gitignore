@@ -206,5 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Dataset Scraper (Contains auth)
+# Private Dataset
 src/scraper.py
+data/raw_levels
+data/raw_songs
