@@ -9,7 +9,7 @@
 **Sync Dash** is a tool that **automatically generates Geometry Dash levels synced to the beats of EDM tracks**.  
 Using advanced **audio analysis** and **machine learning**, it creates playable levels that follow the rhythm of any song you provide.  
 
-<br><br><br>
+<br><br>
 
 ---
 
